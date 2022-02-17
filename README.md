@@ -21,7 +21,7 @@ This method add an extra variable to the security of the message by the way the 
 ### The grid
 The grid is where I was inspired by the way Gaussian blur work. Taking information from around the character to be encrypted and performing some algorithm and assigning that new `key` to our shuffled list.
 
-![Grid represented](https://github.com/uxai/gridlock/blob/images/grid.jpg?raw=true)
+![Grid represented](https://github.com/uxai/gridlock/blob/main/images/grid.jpg)
 
 For each character that is preceding (purple) the current target (orange), the shuffled list will be referenced. For all characters ahead of the current target, the original tuple will be referenced for their key index.
 
