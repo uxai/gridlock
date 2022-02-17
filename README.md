@@ -1,3 +1,5 @@
+![Gridlock logo](https://github.com/uxai/gridlock/blob/main/images/logo.jpg)
+
 # gridlock
 Encryption and decryption of plain text messages inspired by the Gaussian curve method of blurring images and the Caesar Cipher.
 
