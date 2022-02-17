@@ -1,6 +1,8 @@
 # Gridlock Encryption
 Encryption and decryption of plain text messages inspired by the Gaussian curve method of blurring images and the Caesar Cipher.
 
+[Twitter](https://twitter.com/uxai_) | [Blog Post](https://uxai.net/blog/gridlock.html)
+
 ## How it works
 
 ### The shuffle
