@@ -1,4 +1,4 @@
-# gridlock
+# Gridlock Encryption
 Encryption and decryption of plain text messages inspired by the Gaussian curve method of blurring images and the Caesar Cipher.
 
 ## How it works
