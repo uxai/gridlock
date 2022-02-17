@@ -84,6 +84,6 @@ HlksnGVvqsc*
 ```
 
 ## Foot notes
-I do plan to update with allowing file selection in the future, and maybe easier customisation of the grid dimensions.
+I do plan to update with allowing file selection in the future, and maybe easier customisation of the grid dimensions. Feedback is always welcome!
 
 version 1.0
