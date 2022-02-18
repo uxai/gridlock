@@ -3,6 +3,8 @@ Encryption and decryption of plain text messages inspired by the Gaussian curve 
 
 [Twitter](https://twitter.com/uxai_) | [Blog Post](https://uxai.net/blog/gridlock.html)
 
+![Gridlock text interface output](https://github.com/uxai/gridlock/blob/main/images/gridlock-preview.jpg)
+
 ## How it works
 
 ### The shuffle
