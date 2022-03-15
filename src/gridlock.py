@@ -70,10 +70,7 @@ def read_contents(line_length, method):
         line_end = line_length
     line_start = 0
     while line_start < len(content):
-        character_array = []
-        for i in range(line_start, line_end):
-            if content[i]:
-                character_array.append(content[i]) 
+        character_array = [content[i] for i in range(line_start, line_end) if content[i]]
         matrix.append(character_array)
         line_start += line_length
         line_end += line_length
