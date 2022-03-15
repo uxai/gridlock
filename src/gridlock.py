@@ -21,7 +21,6 @@ Line #      Description
 '''
 #!/usr/bin/env python3
 import os
-from os import system, name
 import secrets
 
 # Colors used in the text interface
@@ -107,7 +106,6 @@ def print_final(matrix, void_spaces, offset, alpha_shuffled):
 # Encrypt the given message in the matrix list
 def encrypt_message():
     sys_ran = secrets.SystemRandom()
-    
     # The length of each line for our matrix
     line_length = sys_ran.randint(1, 20)
     matrix = read_contents(line_length, "encrypted")
